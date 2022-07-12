@@ -1,0 +1,36 @@
+11:23 AM 6/30/2022
+
+Microsoft Windows [Version 10.0.22000.739]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://helpdeskgeek.com/linux-tips/how-to-uninstall-ubuntu-in-a-windows-10-dual-boot-system/#:~:text=1%20How%20to%20Uninstall%20Ubuntu%20in%20a%20Windows,Restart.%204%20Overwrite%20the%20Linux%20Boot%20Loader%20
+
+Once you remove Linux partitions from your computer, the boot loader for Ubuntu is still there and needs to be removed as well. There are several ways to do this.
+
+Microsoft DiskPart version 10.0.22000.653
+
+Copyright (C) Microsoft Corporation.
+On computer: DELLXPS17W11
+
+DISKPART> list disk
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online          476 GB    14 MB        *
+
+DISKPART> list volume
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     C   OS           NTFS   Partition    262 GB  Healthy    Boot
+  Volume 1         ESP          FAT32  Partition    200 MB  Healthy    System
+  Volume 2         WINRETOOLS   NTFS   Partition    990 MB  Healthy    Hidden
+  Volume 3         Image        NTFS   Partition     16 GB  Healthy    Hidden
+  Volume 4         DELLSUPPORT  NTFS   Partition   1431 MB  Healthy    Hidden
+
+DISKPART>
+

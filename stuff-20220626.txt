@@ -1,0 +1,119 @@
+9:52 AM 6/26/2022
+
+Microsoft Windows [Version 10.0.22000.708]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>date
+The current date is: Sun 06/26/2022
+Enter the new date: (mm-dd-yy)
+
+C:\Users\DavidHolberton>notepad stuff-20220626.txt
+
+C:\Users\DavidHolberton>
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+dual boot windows 11 and ubuntu
+
+https://windowsreport.com/dual-boot-windows-11-ubuntu/
+
+Install Ubuntu after Windows 11
+1. Create a dedicated Ubuntu partition
+Open Disk Management. You can do that by pressing Windows Key + X and selecting Disk Management from the list.
+
+Now you need to select a drive that you want to shrink. Choose one that has at least 50GB of free space, but if you’re planning to use Ubuntu extensively, you might need even more space.
+Right-click the desired drive and choose Shrink Volume from the context menu.
+
+https://www.linuxtechi.com/dual-boot-ubuntu-22-04-and-windows-11/
+
+So, open the disk management utility by pressing Windows Key + R
+In the dialogue box, type diskmgmt.msc and hit ENTER.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+dual boot windows 11 and ubuntu bitlocker
+
+https://askubuntu.com/questions/1369189/windows-11-ubuntu-and-bitlocker
+
+https://techschumz.com/install-ubuntu-along-with-windows-11-in-dual-boot/
+
+https://itsfoss.com/dual-boot-ubuntu-windows-bitlocker/
+
+So, why I am I writing about installing Ubuntu with Windows 10 once again? Because these days Windows 10 Pro version comes with BitLocker encryption and hence when you try to dual boot like normal, it either refuses or creates issue.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+dell xps 17 9720 boot to bios
+
+https://www.dell.com/support/manuals/en-us/xps-17-9720-laptop/xps-17-9720-sm/entering-bios-setup-program?guid=guid-dacdef92-bd0f-40c4-b280-5e81eb67a4c5&lang=en-us
+
+XPS 17 9720 Service Manual BIOS setupEntering BIOS setup program
+Entering BIOS setup program
+Steps
+Turn on your computer.
+Press F2 immediately to enter the BIOS setup program.
+NOTE If you wait too long and the operating system logo appears, continue to wait until you see the desktop. Then, turn off your comp
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+Microsoft Windows [Version 10.0.22000.739]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>code Documents
+
+Device name	dellxps17w11
+Processor	12th Gen Intel(R) Core(TM) i7-12700H   2.69 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	D2F71842-1168-48D1-9EF7-13CDEC83E0F8
+Product ID	00355-60721-31527-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+Edition	Windows 11 Pro
+Version	21H2
+Installed on	‎6/‎5/‎2022   6/5/2022
+OS build	22000.739
+Experience	Windows Feature Experience Pack 1000.22000.739.0
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+https://windowsreport.com/disable-bitlocker-windows-11/
+
+How do I disable Bitlocker on my Windows 11 computer?
+
+1. Disabling from the Context Menu
+Open the File Explorer and click on This PC.
+Right-click the encrypted drive.
+Turn off Bitlocker or Manage Bitlocker should appear on the new menu. If it doesn’t, click Show more options.
+Click Manage BitLocker to bring up the BitLocker Drive Encyption menu.
+In this new menu, click Turn off BitLocker.
+A small window will appear telling you that the drive will be decrypted. It may take a while depending on the driver’s size.
+Click Turn off BitLocker.
+Give your computer time to decrypt the drive. To give you an idea of how long it took, it took BitLocker 10 minutes to decrypt in this example.
+Once done, the BitLocker Drive Encryption menu will state that the feature has been turned off.
+
+2. Disabling via BitLocker Manager
+
+Click the magnifying glass icon to bring up the Search bar.
+In the Search bar, type in “bitlocker.”
+Click Manage BitLocker when it appears.
+The Manager BitLocker is exactly the same as the BitLocker Drive Encryption menu from the previous section.
+Click Turn off Bitlocker on the right.
+Like before, click the Turn off Bitlocker button and give the app some time to decrypt. Depending on the size, it may take a long time.
+Read more about this topic
+Check out Edge 103 with improved security features
+Check out Windows 11 Build 22000.778 and all it brings
+How to Install DisplayLink Drivers on Windows 10/11
+15 Best Security Settings you Need to Enable in Windows 11
+Dev Channel Windows 11 Insider Preview Build 25145: All you need to know
+
+Control Panel\System and Security\BitLocker Drive Encryption
+
+BitLocker Drive Encryption
+Operating system drive
+OS (C:) BitLocker waiting for activation
+Turn on Bitlocker
+
+
+

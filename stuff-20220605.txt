@@ -1,0 +1,65 @@
+Microsoft Windows [Version 10.0.22000.556]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>notepad stuff-20220605.txt
+
+C:\Users\DavidHolberton>dir /o:gd Downloads
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\Downloads
+
+06/05/2022  06:08 PM    <DIR>          .
+06/05/2022  06:13 PM    <DIR>          ..
+06/05/2022  05:47 PM       181,189,155 jdk-18_windows-x64_bin.zip
+06/05/2022  05:47 PM                64 jdk-18_windows-x64_bin.zip.sha256
+06/05/2022  05:48 PM       160,827,664 jdk-18_windows-x64_bin.exe
+06/05/2022  05:49 PM                64 jdk-18_windows-x64_bin.exe.sha256
+06/05/2022  05:49 PM       159,657,984 jdk-18_windows-x64_bin.msi
+06/05/2022  05:49 PM                64 jdk-18_windows-x64_bin.msi.sha256
+06/05/2022  05:53 PM                64 jdk-17_windows-x64_bin.zip.sha256
+06/05/2022  05:53 PM       160,061,712 jdk-17_windows-x64_bin.exe
+06/05/2022  05:53 PM                64 jdk-17_windows-x64_bin.exe.sha256
+06/05/2022  05:53 PM       158,892,032 jdk-17_windows-x64_bin.msi
+06/05/2022  05:54 PM                64 jdk-17_windows-x64_bin.msi.sha256
+06/05/2022  05:59 PM       147,226,896 jdk-11.0.15.1_windows-x64_bin.exe
+06/05/2022  06:01 PM       165,784,406 jdk-11.0.15.1_windows-x64_bin.zip
+06/05/2022  06:02 PM             7,396 11-0-15-1-checksum.html
+06/05/2022  06:03 PM        53,807,711 jdk-11.0.15.1_doc-all.zip
+06/05/2022  06:06 PM       166,945,536 jdk-8u333-windows-i586.exe
+06/05/2022  06:06 PM       181,048,576 jdk-8u333-windows-x64.exe
+06/05/2022  06:06 PM            11,300 8u333checksum.html
+06/05/2022  06:07 PM       125,169,043 jdk-8u333-docs-all.zip
+06/05/2022  06:08 PM        10,473,619 javafx-8u331-apidocs.zip
+              20 File(s)  1,671,103,414 bytes
+               2 Dir(s)  411,922,989,056 bytes free
+
+C:\Users\DavidHolberton>
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+Microsoft Windows [Version 10.0.22000.708]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+Device name	dellxps17w11
+Processor	12th Gen Intel(R) Core(TM) i7-12700H   2.69 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	D2F71842-1168-48D1-9EF7-13CDEC83E0F8
+Product ID	00355-60721-31527-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+Edition	Windows 11 Pro
+Version	21H2
+Installed on	‎6/‎5/‎2022
+OS build	22000.708
+Experience	Windows Feature Experience Pack 1000.22000.708.0
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+

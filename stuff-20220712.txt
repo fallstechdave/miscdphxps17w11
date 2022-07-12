@@ -1,0 +1,432 @@
+10:43 AM 7/12/2022
+
+note: laptop clock says 11:46 AM when it is actually 7:46 AM -- problem when switching from Ununtu to Windows
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+C:\Users\DavidHolberton\Downloads>dir /o:gd
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\Downloads
+
+07/12/2022  04:26 PM    <DIR>          .
+07/12/2022  05:28 PM    <DIR>          ..
+07/12/2022  05:36 PM    <DIR>          jdktemp
+06/16/2022  06:48 AM       224,359,438 mysql-8.0.29-winx64.zip
+06/16/2022  06:49 AM                34 mysql-8.0.29-winx64.zip.md5
+06/16/2022  06:49 AM               833 mysql-8.0.29-winx64.zip.asc
+06/16/2022  06:51 AM       564,784,883 mysql-8.0.29-winx64-debug-test.zip
+06/16/2022  06:52 AM                34 mysql-8.0.29-winx64-debug-test.zip.md5
+06/16/2022  06:52 AM               833 mysql-8.0.29-winx64-debug-test.zip.asc
+06/16/2022  06:54 AM         2,433,024 mysql-installer-web-community-8.0.29.0.msi
+06/16/2022  06:55 AM                34 mysql-installer-web-community-8.0.29.0.msi.md5
+06/16/2022  06:56 AM               833 mysql-installer-web-community-8.0.29.0.msi.asc
+06/16/2022  06:56 AM       461,000,704 mysql-installer-community-8.0.29.0.msi
+06/16/2022  06:57 AM                34 mysql-installer-community-8.0.29.0.msi.md5
+06/16/2022  06:57 AM               833 mysql-installer-community-8.0.29.0.msi.asc
+06/16/2022  07:05 AM        25,337,776 VC_redist.x64.exe
+06/16/2022  07:06 AM        81,333,440 VSCodeUserSetup-x64-1.68.1.exe
+06/16/2022  07:08 AM        81,333,232 VSCodeSetup-x64-1.68.1.exe
+06/16/2022  07:08 AM       113,325,048 VSCode-win32-x64-1.68.1.zip
+06/16/2022  07:46 AM            67,486 wire4-main.zip
+06/16/2022  08:18 PM        49,638,112 Git-2.36.1-64-bit.exe
+06/16/2022  09:21 PM       138,502,136 rubyinstaller-devkit-3.1.2-1-x64.exe
+06/16/2022  09:41 PM         1,533,613 7z2107-x64.exe
+07/12/2022  11:06 AM       181,189,155 jdk-18_windows-x64_bin.zip
+07/12/2022  11:06 AM                64 jdk-18_windows-x64_bin.zip.sha256
+07/12/2022  11:06 AM       160,827,664 jdk-18_windows-x64_bin.exe
+07/12/2022  11:06 AM                64 jdk-18_windows-x64_bin.exe.sha256
+07/12/2022  11:07 AM       159,657,984 jdk-18_windows-x64_bin.msi
+07/12/2022  11:07 AM                64 jdk-18_windows-x64_bin.msi.sha256
+07/12/2022  11:08 AM       179,958,887 jdk-17_windows-x64_bin.zip
+07/12/2022  11:08 AM                64 jdk-17_windows-x64_bin.zip.sha256
+07/12/2022  11:09 AM       160,061,712 jdk-17_windows-x64_bin.exe
+07/12/2022  11:09 AM                64 jdk-17_windows-x64_bin.exe.sha256
+07/12/2022  11:09 AM       158,892,032 jdk-17_windows-x64_bin.msi
+07/12/2022  11:09 AM                64 jdk-17_windows-x64_bin.msi.sha256
+07/12/2022  11:34 AM       147,226,896 jdk-11.0.15.1_windows-x64_bin.exe
+07/12/2022  11:34 AM       165,784,406 jdk-11.0.15.1_windows-x64_bin.zip
+07/12/2022  11:35 AM             7,396 11-0-15-1-checksum.html
+07/12/2022  11:35 AM       166,945,536 jdk-8u333-windows-i586.exe
+07/12/2022  11:35 AM       181,048,576 jdk-8u333-windows-x64.exe
+07/12/2022  11:35 AM            11,298 8u333checksum.html
+07/12/2022  11:36 AM       125,169,043 jdk-8u333-docs-all.zip
+07/12/2022  11:36 AM        10,473,619 javafx-8u331-apidocs.zip
+07/12/2022  11:38 AM        53,807,711 jdk-11.0.15.1_doc-all.zip
+07/12/2022  11:38 AM        51,329,631 jdk-17.0.3.1_doc-all.zip
+07/12/2022  11:39 AM        52,230,737 jdk-18.0.1.1_doc-all.zip
+07/12/2022  11:42 AM        55,916,740 jdk-8u333-windows-i586-demos.zip
+07/12/2022  11:42 AM        55,937,583 jdk-8u333-windows-x64-demos.zip
+07/12/2022  11:55 AM       169,475,072 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.msi
+07/12/2022  11:58 AM                66 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.msi.sha256
+07/12/2022  12:02 PM       190,080,997 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.zip
+07/12/2022  12:04 PM                66 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.zip.sha256
+07/12/2022  12:10 PM       168,786,944 OpenJDK17U-jdk_x64_windows_hotspot_17.0.3_7.msi
+07/12/2022  12:11 PM                66 OpenJDK17U-jdk_x64_windows_hotspot_17.0.3_7.msi.sha256
+07/12/2022  12:12 PM       188,842,614 OpenJDK17U-jdk_x64_windows_hotspot_17.0.3_7.zip
+07/12/2022  12:13 PM                66 OpenJDK17U-jdk_x64_windows_hotspot_17.0.3_7.zip.sha256
+07/12/2022  12:13 PM       175,321,600 OpenJDK11U-jdk_x64_windows_hotspot_11.0.15_10.msi
+07/12/2022  12:14 PM                66 OpenJDK11U-jdk_x64_windows_hotspot_11.0.15_10.msi.sha256
+07/12/2022  12:14 PM       196,964,944 OpenJDK11U-jdk_x64_windows_hotspot_11.0.15_10.zip
+07/12/2022  12:16 PM                66 OpenJDK11U-jdk_x64_windows_hotspot_11.0.15_10.zip.sha256
+07/12/2022  12:16 PM        90,022,400 OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.msi
+07/12/2022  12:17 PM                66 OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.msi.sha256
+07/12/2022  12:17 PM       104,193,247 OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.zip
+07/12/2022  12:18 PM                66 OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.zip.sha256
+07/12/2022  12:29 PM        12,845,200 apache-tomcat-9.0.64-windows-x64.zip
+07/12/2022  12:29 PM               833 apache-tomcat-9.0.64-windows-x64.zip.asc
+07/12/2022  12:29 PM               166 apache-tomcat-9.0.64-windows-x64.zip.sha512
+07/12/2022  03:38 PM        12,395,352 apache-tomcat-9.0.64.exe
+07/12/2022  03:38 PM               833 apache-tomcat-9.0.64.exe.asc
+07/12/2022  03:39 PM               154 apache-tomcat-9.0.64.exe.sha512
+07/12/2022  04:25 PM       178,871,764 grails-5.2.0.zip
+07/12/2022  04:25 PM         9,163,019 grails-docs.zip
+07/12/2022  04:26 PM       137,572,132 grails-2.5.4.zip
+              70 File(s)  5,444,667,149 bytes
+               3 Dir(s)  157,418,819,584 bytes free
+
+C:\Users\DavidHolberton\Downloads>
+C:\Users\DavidHolberton\Downloads>dir /o:gd jdktemp
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\Downloads\jdktemp
+
+07/12/2022  04:26 PM    <DIR>          ..
+07/12/2022  05:36 PM    <DIR>          .
+06/05/2022  06:47 PM       181,189,155 jdk-18_windows-x64_bin.zip
+06/05/2022  06:47 PM                64 jdk-18_windows-x64_bin.zip.sha256
+06/05/2022  06:48 PM       160,827,664 jdk-18_windows-x64_bin.exe
+06/05/2022  06:49 PM                64 jdk-18_windows-x64_bin.exe.sha256
+06/05/2022  06:49 PM       159,657,984 jdk-18_windows-x64_bin.msi
+06/05/2022  06:49 PM                64 jdk-18_windows-x64_bin.msi.sha256
+06/05/2022  06:53 PM                64 jdk-17_windows-x64_bin.zip.sha256
+06/05/2022  06:53 PM       160,061,712 jdk-17_windows-x64_bin.exe
+06/05/2022  06:53 PM                64 jdk-17_windows-x64_bin.exe.sha256
+06/05/2022  06:53 PM       158,892,032 jdk-17_windows-x64_bin.msi
+06/05/2022  06:54 PM                64 jdk-17_windows-x64_bin.msi.sha256
+06/05/2022  06:59 PM       147,226,896 jdk-11.0.15.1_windows-x64_bin.exe
+06/05/2022  07:01 PM       165,784,406 jdk-11.0.15.1_windows-x64_bin.zip
+06/05/2022  07:02 PM             7,396 11-0-15-1-checksum.html
+06/05/2022  07:03 PM        53,807,711 jdk-11.0.15.1_doc-all.zip
+06/05/2022  07:06 PM       166,945,536 jdk-8u333-windows-i586.exe
+06/05/2022  07:06 PM       181,048,576 jdk-8u333-windows-x64.exe
+06/05/2022  07:06 PM            11,300 8u333checksum.html
+06/05/2022  07:07 PM       125,169,043 jdk-8u333-docs-all.zip
+06/05/2022  07:08 PM        10,473,619 javafx-8u331-apidocs.zip
+              20 File(s)  1,671,103,414 bytes
+               2 Dir(s)  157,418,688,512 bytes free
+
+C:\Users\DavidHolberton\Downloads>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://www.oracle.com/java/technologies/downloads/
+
+Java SE Development Kit 18.0.1.1 downloads
+Java SE Development Kit 17.0.3.1 downloads
+Java SE Development Kit 11.0.15.1
+Java SE Development Kit 8u333
+
+Qs_UgfDv@8XPnRw$jowv!HPr
+
+https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html
+https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html
+https://www.oracle.com/java/technologies/javase-jdk17-doc-downloads.html
+https://www.oracle.com/java/technologies/javase-jdk18-doc-downloads.html
+https://www.oracle.com/java/technologies/downloads/#java8-windows
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://code.visualstudio.com/docs/java/extensions
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+https://code.visualstudio.com/docs/languages/java
+
+Install a Java Development Kit (JDK)#
+A Java Development Kit (JDK) is a software development environment used for developing Java applications. In order to run Java within Visual Studio Code, you need to install a JDK. The Extension Pack for Java supports Java version 1.5 or above.
+
+We recommend you to consider installing the JDK from one of these sources:
+
+Amazon Corretto
+Azul Zulu
+Eclipse Adoptium's Temurin
+Microsoft Build of OpenJDK
+Oracle Java SE
+Red Hat build of OpenJDK
+SapMachine
+
+https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc
+https://www.azul.com/downloads/?package=jdk
+https://adoptium.net/
+https://adoptium.net/temurin/releases
+https://adoptium.net/temurin/archive?version=18
+https://adoptium.net/temurin/releases/?version=18
+https://developers.redhat.com/products/openjdk/download
+https://tomcat.apache.org/download-90.cgi
+
+07/12/2022  11:55 AM       169,475,072 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.msi
+07/12/2022  11:58 AM                66 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.msi.sha256
+07/12/2022  12:02 PM       190,080,997 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.zip
+07/12/2022  12:04 PM                66 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.zip.sha256
+07/12/2022  12:06 PM       169,475,072 OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10 (1).msi      delete this
+07/12/2022  12:07 PM       181,529,080 OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.1_10.zip       delete this
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Microsoft Windows [Version 10.0.22000.778]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>java -version
+openjdk version "1.8.0_332"
+OpenJDK Runtime Environment (Temurin)(build 1.8.0_332-b09)
+OpenJDK 64-Bit Server VM (Temurin)(build 25.332-b09, mixed mode)
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>grails --version
+Grails version: 2.5.4
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>cd \
+
+C:\>
+C:\>echo %JAVA_HOME%
+C:\LocalApps\jdk8u332-b09
+
+C:\>echo %GRAILS_HOME%
+C:\LocalApps\grails-2.5.4
+
+C:\>
+C:\>dir /o:gd \LocalApps
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\LocalApps
+
+03/03/2016  09:17 AM    <DIR>          grails-2.5.4
+04/22/2022  01:35 PM    <DIR>          jdk8u332-b09
+06/02/2022  11:08 PM    <DIR>          apache-tomcat-9.0.64
+07/12/2022  04:28 PM    <DIR>          .
+07/12/2022  12:17 PM       104,193,247 OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.zip
+07/12/2022  12:29 PM        12,845,200 apache-tomcat-9.0.64-windows-x64.zip
+07/12/2022  04:26 PM       137,572,132 grails-2.5.4.zip
+               3 File(s)    254,610,579 bytes
+               4 Dir(s)  156,908,310,528 bytes free
+
+C:\>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://grails.org/download.html
+https://tomcat.apache.org/download-90.cgi
+https://tomcat.apache.org/tomcat-9.0-doc/
+https://tomcat.apache.org/tomcat-9.0-doc/index.html
+https://tomcat.apache.org/tomcat-9.0-doc/setup.html
+https://tomcat.apache.org/tomcat-9.0-doc/appdev/index.html
+https://tomcat.apache.org/tomcat-9.0-doc/windows-service-howto.html
+
+Install the service named 'Tomcat9'
+C:\> service.bat install
+There is a 2nd optional parameter that lets you specify the name of the service, as displayed in Windows services.
+Install the service named 'MyService'
+C:\> service.bat install MyService
+
+C:\LocalApps\apache-tomcat-9.0.64>
+C:\LocalApps\apache-tomcat-9.0.64>dir /o:gn
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\LocalApps\apache-tomcat-9.0.64
+
+06/02/2022  11:08 PM    <DIR>          .
+07/12/2022  03:46 PM    <DIR>          ..
+06/02/2022  11:08 PM    <DIR>          bin
+06/02/2022  11:08 PM    <DIR>          conf
+06/02/2022  11:08 PM    <DIR>          lib
+06/02/2022  11:08 PM    <DIR>          logs
+06/02/2022  11:08 PM    <DIR>          temp
+06/02/2022  11:08 PM    <DIR>          webapps
+06/02/2022  11:08 PM    <DIR>          work
+06/02/2022  11:08 PM            19,544 BUILDING.txt
+06/02/2022  11:08 PM             6,375 CONTRIBUTING.md
+06/02/2022  11:08 PM            58,153 LICENSE
+06/02/2022  11:08 PM             2,401 NOTICE
+06/02/2022  11:08 PM             3,479 README.md
+06/02/2022  11:08 PM             7,075 RELEASE-NOTES
+06/02/2022  11:08 PM            16,982 RUNNING.txt
+               7 File(s)        114,009 bytes
+               9 Dir(s)  157,540,483,072 bytes free
+
+C:\LocalApps\apache-tomcat-9.0.64>
+C:\LocalApps\apache-tomcat-9.0.64>dir /o:gn bin
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\LocalApps\apache-tomcat-9.0.64\bin
+
+06/02/2022  11:08 PM    <DIR>          .
+06/02/2022  11:08 PM    <DIR>          ..
+06/02/2022  11:08 PM            34,699 bootstrap.jar
+06/02/2022  11:08 PM            16,840 catalina.bat
+06/02/2022  11:08 PM            25,294 catalina.sh
+06/02/2022  11:08 PM             1,703 catalina-tasks.xml
+06/02/2022  11:08 PM             2,123 ciphers.bat
+06/02/2022  11:08 PM             1,997 ciphers.sh
+06/02/2022  11:08 PM            25,410 commons-daemon.jar
+06/02/2022  11:08 PM             2,040 configtest.bat
+06/02/2022  11:08 PM             1,922 configtest.sh
+06/02/2022  11:08 PM             9,100 daemon.sh
+06/02/2022  11:08 PM             2,091 digest.bat
+06/02/2022  11:08 PM             1,965 digest.sh
+06/02/2022  11:08 PM             3,606 makebase.bat
+06/02/2022  11:08 PM             3,382 makebase.sh
+06/02/2022  11:08 PM             8,951 service.bat
+06/02/2022  11:08 PM             3,460 setclasspath.bat
+06/02/2022  11:08 PM             3,708 setclasspath.sh
+06/02/2022  11:08 PM             2,020 shutdown.bat
+06/02/2022  11:08 PM             1,902 shutdown.sh
+06/02/2022  11:08 PM             2,022 startup.bat
+06/02/2022  11:08 PM             1,904 startup.sh
+06/02/2022  11:08 PM         2,613,248 tcnative-1.dll
+06/02/2022  11:08 PM           142,984 tomcat9.exe
+06/02/2022  11:08 PM           126,600 tomcat9w.exe
+06/02/2022  11:08 PM            46,898 tomcat-juli.jar
+06/02/2022  11:08 PM             4,574 tool-wrapper.bat
+06/02/2022  11:08 PM             5,540 tool-wrapper.sh
+06/02/2022  11:08 PM             2,026 version.bat
+06/02/2022  11:08 PM             1,908 version.sh
+              29 File(s)      3,099,917 bytes
+               2 Dir(s)  157,540,417,536 bytes free
+
+C:\LocalApps\apache-tomcat-9.0.64>
+
+C:\LocalApps\apache-tomcat-9.0.64\bin>
+C:\LocalApps\apache-tomcat-9.0.64\bin>service.bat install
+Installing the service 'Tomcat9' ...
+Using CATALINA_HOME:    "C:\LocalApps\apache-tomcat-9.0.64"
+Using CATALINA_BASE:    "C:\LocalApps\apache-tomcat-9.0.64"
+Using JAVA_HOME:        "C:\LocalApps\jdk8u332-b09"
+Using JRE_HOME:         "C:\LocalApps\jdk8u332-b09\jre"
+Using JVM:              "C:\LocalApps\jdk8u332-b09\jre\bin\server\jvm.dll"
+The service 'Tomcat9' has been installed.
+
+C:\LocalApps\apache-tomcat-9.0.64\bin>
+
+http://localhost:8080/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+C:\Users\DavidHolberton>cd grailsprojects
+
+C:\Users\DavidHolberton\grailsprojects>dir
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\grailsprojects
+
+07/12/2022  04:40 PM    <DIR>          .
+07/12/2022  04:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  156,906,913,792 bytes free
+
+C:\Users\DavidHolberton\grailsprojects>git version
+git version 2.37.0.windows.1
+
+C:\Users\DavidHolberton\grailsprojects>git --version
+git version 2.37.0.windows.1
+
+C:\Users\DavidHolberton\grailsprojects>
+
+git config --global --add user.name "David Holberton"
+git config --global --add user.email david.holberton@fallstechnology.com
+git config --global --list
+
+C:\Users\DavidHolberton>git config --global --list
+fatal: unable to read config file 'C:/Users/DavidHolberton/.gitconfig': No such file or directory
+
+C:\Users\DavidHolberton>git config --global --add user.name "David Holberton"
+
+C:\Users\DavidHolberton>git config --global --add user.email david.holberton@fallstechnology.com
+
+C:\Users\DavidHolberton>git config --global --list
+user.name=David Holberton
+user.email=david.holberton@fallstechnology.com
+
+C:\Users\DavidHolberton>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://github.com/fallstechdave/wire5
+
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+ssh-keygen -t ed25519 -C "david.holberton@fallstechnology.com"
+ssh-keygen -t rsa -b 4096 -C "david.holberton@fallstechnology.com"
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>ssh-keygen -t ed25519 -C "david.holberton@fallstechnology.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (C:\Users\DavidHolberton/.ssh/id_ed25519):
+C:\Users\DavidHolberton/.ssh/id_ed25519 already exists.
+Overwrite (y/n)? n
+
+C:\Users\DavidHolberton>dir /o:gd .ssh
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\.ssh
+
+06/30/2022  11:15 AM    <DIR>          .
+07/12/2022  04:50 PM    <DIR>          ..
+06/30/2022  10:35 AM               117 id_ed25519.pub
+06/30/2022  10:35 AM               432 id_ed25519
+06/30/2022  10:35 AM               761 id_rsa.pub
+06/30/2022  10:35 AM             3,414 id_rsa
+06/30/2022  11:02 AM               444 known_hosts
+               5 File(s)          5,168 bytes
+               2 Dir(s)  156,904,173,568 bytes free
+
+C:\Users\DavidHolberton>
+
+mmrxps17u20
+mmrxps17w11
+
+git remote add origin git@github.com:fallstechdave/miscmmrxps17w11.git
+git branch -M main
+git push -u origin main
+
+git clone git@github.com:fallstechdave/wire5.git
+git clone git@github.com:fallstechdave/testboot254.git
+git clone git@github.com:fallstechdave/miscmmrxps17u20.git
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+C:\Users\DavidHolberton\grailsprojects>git clone git@github.com:fallstechdave/wire5.git
+Cloning into 'wire5'...
+remote: Enumerating objects: 126, done.
+remote: Counting objects: 100% (126/126), done.
+remote: Compressing objects: 100% (105/105), done.
+Receiving objects:  83% (105/126)sed 123 (delta 7), pack-reused 0
+Receiving objects: 100% (126/126), 39.77 KiB | 9.94 MiB/s, done.
+Resolving deltas: 100% (10/10), done.
+
+C:\Users\DavidHolberton\grailsprojects>
+C:\Users\DavidHolberton\grailsprojects>dir /o:d
+ Volume in drive C is OS
+ Volume Serial Number is A02F-B04A
+
+ Directory of C:\Users\DavidHolberton\grailsprojects
+
+07/12/2022  05:28 PM    <DIR>          ..
+07/12/2022  05:46 PM    <DIR>          .
+07/12/2022  05:46 PM    <DIR>          wire5
+               0 File(s)              0 bytes
+               3 Dir(s)  157,426,069,504 bytes free
+
+C:\Users\DavidHolberton\grailsprojects>

@@ -1,0 +1,100 @@
+11:51 AM 6/28/2022
+
+Microsoft Windows [Version 10.0.22000.739]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>dir /o:gd /s d:\
+ Volume in drive D has no label.
+ Volume Serial Number is 98CE-9117
+
+ Directory of d:\
+
+10/04/2016  09:13 PM    <DIR>          SanDiskSecureAccess
+02/05/2015  11:47 AM        16,024,600 RunSanDiskSecureAccess_Win.exe
+               1 File(s)     16,024,600 bytes
+
+ Directory of d:\SanDiskSecureAccess
+
+10/04/2016  09:13 PM    <DIR>          ..
+10/04/2016  09:13 PM    <DIR>          .
+02/09/2015  06:09 PM           355,233 DownloadSanDiskSecureAccess_Mac.pdf
+02/10/2015  12:48 AM         2,676,267 SanDisk_SecureAccess_QSG.pdf
+               2 File(s)      3,031,500 bytes
+
+ Directory of d:\System Volume Information
+
+06/28/2022  11:58 AM    <DIR>          ..
+06/28/2022  11:58 AM    <DIR>          .
+06/28/2022  11:58 AM                76 IndexerVolumeGuid
+06/28/2022  11:58 AM                12 WPSettings.dat
+               2 File(s)             88 bytes
+
+     Total Files Listed:
+               5 File(s)     19,056,188 bytes
+               5 Dir(s)  31,372,427,264 bytes free
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>dir /o:gd /s d:\
+ Volume in drive D has no label.
+ Volume Serial Number is 98CE-9117
+
+ Directory of d:\
+
+10/04/2016  09:13 PM    <DIR>          SanDiskSecureAccess
+02/05/2015  11:47 AM        16,024,600 RunSanDiskSecureAccess_Win.exe
+06/28/2022  12:03 PM             1,348 BitLocker Recovery Key 7943F6A7-4942-4100-9B8E-4BBEFF6EB88D.TXT
+               2 File(s)     16,025,948 bytes
+
+ Directory of d:\SanDiskSecureAccess
+
+10/04/2016  09:13 PM    <DIR>          ..
+10/04/2016  09:13 PM    <DIR>          .
+02/09/2015  06:09 PM           355,233 DownloadSanDiskSecureAccess_Mac.pdf
+02/10/2015  12:48 AM         2,676,267 SanDisk_SecureAccess_QSG.pdf
+               2 File(s)      3,031,500 bytes
+
+ Directory of d:\System Volume Information
+
+06/28/2022  11:58 AM    <DIR>          ..
+06/28/2022  11:58 AM    <DIR>          .
+06/28/2022  11:58 AM                76 IndexerVolumeGuid
+06/28/2022  11:58 AM                12 WPSettings.dat
+               2 File(s)             88 bytes
+
+     Total Files Listed:
+               6 File(s)     19,057,536 bytes
+               5 Dir(s)  31,372,410,880 bytes free
+
+C:\Users\DavidHolberton>
+C:\Users\DavidHolberton>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://clouddropout.com/dell-xps-boot-with-usb/#:~:text=First%2C%20restart%20your%20Dell%20XPS%20laptop%20with%20the,is%20enabled.%20Next%2C%20disable%20the%20ROMS%20legacy%20option.
+
+https://www.dell.com/support/kbdoc/en-us/000131655/how-to-install-ubuntu-linux-on-your-dell-pc
+
+https://www.dell.com/support/kbdoc/en-us/000132108/how-to-install-ubuntu-and-windows-vista-or-7-as-a-dual-boot-on-your-dell-pc
+
+https://www.linuxtechi.com/dual-boot-ubuntu-22-04-and-windows-11/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
