@@ -1,0 +1,62 @@
+9:38 PM 2/21/2023
+
+Microsoft Windows [Version 10.0.22000.1574]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Device name	dellxps17w11
+Processor	12th Gen Intel(R) Core(TM) i7-12700H   2.30 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	D2F71842-1168-48D1-9EF7-13CDEC83E0F8
+Product ID	00355-60721-31527-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Edition	Windows 11 Pro
+Version	21H2
+Installed on	6/5/2022
+OS build	22000.1574
+Experience	Windows Feature Experience Pack 1000.22000.1574.0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Manufacturer	Dell
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+10:20 PM 2/21/2023
+
+Microsoft Windows [Version 10.0.22621.1265]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DavidHolberton>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Device name	dellxps17w11
+Processor	12th Gen Intel(R) Core(TM) i7-12700H   2.30 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	D2F71842-1168-48D1-9EF7-13CDEC83E0F8
+Product ID	00355-60721-31527-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Edition	Windows 11 Pro
+Version	22H2
+Installed on	2/21/2023
+OS build	22621.1265
+Experience	Windows Feature Experience Pack 1000.22638.1000.0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Manufacturer	Dell
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
